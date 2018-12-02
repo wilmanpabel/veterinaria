@@ -11,6 +11,7 @@ public class VeterinariaApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("fasdfsdfdasf");
     }
 
 }
